@@ -2,11 +2,18 @@ Music Streaming App
 
 Documentation
 
-📄 Music Streaming App Documentation
+📄 Music Streaming App Documentation : https://drive.google.com/drive/folders/1z0kzb7jy9seTTX6ixxb7LenTQK7j2cjX?usp=sharing
 
 Demo Video 
 
-🎥 Watch Demo
+🎥 Watch Demo : https://drive.google.com/file/d/1Fzj4PRquYV_bqAhNIzT-9smFF3Ad47SL/view?usp=sharing
+
+team members : 
+1.Sabith A (Team Leader)
+2.Lakshmi Narayanan S A
+3.Magesh Kannan D
+4.Santhosh Kumar P
+5.Santhosh V
 
 Overview
 
