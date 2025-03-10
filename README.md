@@ -6,10 +6,9 @@ Documentation
 
 Demo Video 
 
-🎥 Watch Demo : https://drive.google.com/file/d/1Fzj4PRquYV_bqAhNIzT-9smFF3Ad47SL/view?usp=sharing
-
+🎥 Watch Demo : https://drive.google.com/file/d/1-1ldzRmIeak9XSDoe6MoMO0_A9VoYMQ4/view?usp=drivesdk
 team members : 
-1.Sabith A (Team Leader)
+1.Sabith A (Team Leader)  
 2.Lakshmi Narayanan S A
 3.Magesh Kannan D
 4.Santhosh Kumar P
